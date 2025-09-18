@@ -2,6 +2,7 @@
 layout: home
 title: "Muhammad Waqas"
 author_profile: true
+permalink: /
 ---
 
 Welcome!  
