@@ -48,9 +48,10 @@ permalink: /
   <div style="flex:1; min-width:260px;">
 
   <div style="text-align:center; margin-bottom:1rem;">
-    <img src="/images/AY6315282(1).jpg"
-         alt="Muhammad Waqas"
-         style="max-width:100%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+    <img src="{{ site.baseurl }}/images/AY6315282(1).jpg"
+     alt="Muhammad Waqas"
+     style="max-width:100%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+
   </div>
 
   <div style="background:#f9f9f9; padding:1rem; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.05); margin-bottom:1rem;">
