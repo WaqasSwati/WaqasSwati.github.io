@@ -29,9 +29,8 @@ permalink: /
 </div>
 
 <!-- INTRO SECTION -->
-<div style="max-width:900px; margin:2rem auto; font-size:1.1rem; line-height:1.8;">
-  <h1 style="font-size:2rem;">Welcome</h1>
-    <p>
+<div style="max-width:900px; margin:2rem auto; font-size:1.1rem; line-height:1.8; text-align:justify;">
+  <p>
     I am a computational researcher, having recently completed my Ph.D. in Computer Science at
     <a href="https://www.unive.it/">Ca' Foscari University of Venice</a> under the supervision of
     Prof. <a href="https://www.unive.it/data/people/5592332">Andrea Marin</a> and
@@ -57,6 +56,7 @@ permalink: /
     Prof. <a href="https://nbc.nust.edu.pk/faculty/muhammad-mohsin-raza-jafri/">Syed Mohsin Raza Jafari</a>.
   </p>
 </div>
+
 
 <!-- TWO CARDS -->
 <div style="display:flex; flex-wrap:wrap; gap:2rem; margin:2rem auto; max-width:900px;">
