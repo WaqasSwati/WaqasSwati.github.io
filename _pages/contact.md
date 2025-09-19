@@ -69,11 +69,12 @@ permalink: /contact/
 
   <p>Campus Scientifico – Università Ca’ Foscari, Via Torino 155, Mestre, Venice, Italy</p>
 
-  <iframe 
-    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2780.0769489138864!2d12.253879515906816!3d45.492305879101936!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477eb8a63d0b1c53%3A0x49ab4646671b2c!2sCampus%20Scientifico%20Via%20Torino%2C%20Ca%E2%80%99%20Foscari%20University!5e0!3m2!1sen!2sit!4v1699970999999!5m2!1sen!2sit"
-    width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy"
-    referrerpolicy="no-referrer-when-downgrade">
-  </iframe>
+<iframe
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2780.0769489138864!2d12.253879515906816!3d45.492305879101936!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f17!3m3!1m2!1s0x477eb8a63d0b1c53%3A0x49ab4646671b2c!2sCampus%20Scientifico%20Via%20Torino%2C%20Ca%E2%80%99%20Foscari%20University!5e0!3m2!1sen!2sit!4v1699970999999!5m2!1sen!2sit"
+  width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy"
+  referrerpolicy="no-referrer-when-downgrade">
+</iframe>
+
 
   </div>
 
