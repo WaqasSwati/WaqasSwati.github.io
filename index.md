@@ -22,10 +22,6 @@ permalink: /
       Computational researcher • Ph.D. in Computer Science at
       <a href="https://www.unive.it/">Ca' Foscari University of Venice</a>.
     </p>
-    <p style="font-size:1.05rem; line-height:1.7; margin-bottom:0;">
-      Open to <strong>collaborative research</strong> and <strong>invited talks</strong>.
-      <a href="/contact/">Get in touch</a>.
-    </p>
   </div>
 
 </div>
@@ -64,13 +60,14 @@ permalink: /
   </div>
 
   <!-- Availability -->
-  <div style="flex:1; min-width:250px; background:#eef6ff; padding:1.5rem; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.05);">
-    <h3 style="margin-top:0; text-align:center;">Available For</h3>
-    <ul style="padding-left:1rem; line-height:1.8;">
+  <div style="flex:1; min-width:250px; background:#eef6ff; padding:1.5rem; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.05); text-align:center;">
+    <h3 style="margin-top:0;">Available For</h3>
+    <ul style="padding-left:1rem; text-align:left; line-height:1.8; display:inline-block;">
       <li>Collaborative research projects</li>
       <li>Invited lectures &amp; talks</li>
       <li>Consulting on simulation frameworks</li>
     </ul>
+    <a href="/contact/" class="btn" style="display:inline-block; margin-top:1rem; background:#0073e6; color:#fff; padding:0.6rem 1.2rem; border-radius:6px; text-decoration:none;">Get in Touch</a>
   </div>
 
 </div>
