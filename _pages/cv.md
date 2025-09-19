@@ -5,7 +5,15 @@ permalink: /cv/
 author_profile: true
 ---
 
-You can view my CV directly in the browser or download the PDF:
+### 📄 View my CV directly on this page  
 
-- [📄 **View my CV**](/files/Muhammad_Waqas_CV.pdf){:target="_blank"}
-- [⬇️ **Download my CV (PDF)**](/files/Muhammad_Waqas_CV.pdf)
+<iframe src="/files/Muhammad_Waqas_CV.pdf" 
+        width="100%" height="800px" 
+        style="border:1px solid #ccc; border-radius:8px;">
+</iframe>
+
+---
+
+### ⬇️ Download my CV  
+
+[Download CV (PDF)](/files/Muhammad_Waqas_CV.pdf)
