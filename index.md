@@ -5,44 +5,65 @@ author_profile: false
 permalink: /
 ---
 
-<!-- HERO SECTION: photo + name + tagline -->
-<div style="display:flex; flex-wrap:wrap; align-items:center; gap:2rem; margin:2rem;">
+<!-- HERO SECTION -->
+<div style="background:#f5f9ff; padding:2rem 1rem; border-radius:0; margin:0 0 2rem 0;">
 
-  <!-- Photo -->
-  <div style="flex:1; min-width:220px; text-align:center;">
-    <img src="{{ site.baseurl }}/images/profile.jpg"
-         alt="Muhammad Waqas"
-         style="width:200px; height:auto; border-radius:50%; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+  <div style="display:flex; flex-wrap:wrap; align-items:center; gap:2rem; max-width:1000px; margin:0 auto;">
+
+    <!-- Photo -->
+    <div style="flex:1; min-width:220px; text-align:center;">
+      <img src="{{ site.baseurl }}/images/AY6315283(1).jpg"
+           alt="Muhammad Waqas"
+           style="width:220px; height:auto; border-radius:50%; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+    </div>
+
+    <!-- Text -->
+    <div style="flex:3; min-width:280px;">
+      <h1 style="margin:0; font-size:2.2rem;">Muhammad Waqas</h1>
+      <div style="font-size:1.2rem; color:#0066cc; font-weight:500; margin:0.3rem 0 1rem 0;">
+        Computational Researcher &nbsp;|&nbsp; Ph.D. Computer Science, Ca’ Foscari University of Venice
+      </div>
+
+      <p style="font-size:1.05rem; line-height:1.8; margin-bottom:0;">
+        I specialize in simulation and analytical modelling of complex systems for optimization purposes.
+        Passionate about applying quantitative skills to pressing challenges at the intersection of technology and society.
+      </p>
+    </div>
+
   </div>
-
-  <!-- Intro Text -->
-  <div style="flex:3; min-width:280px;">
-    <h1 style="margin-top:0; font-size:2rem;">Muhammad Waqas</h1>
-    <p style="font-size:1.15rem; line-height:1.8; margin-bottom:0.8rem;">
-      Computational researcher • Ph.D. in Computer Science at
-      <a href="https://www.unive.it/">Ca' Foscari University of Venice</a>.
-    </p>
-  </div>
-
 </div>
 
-<!-- MAIN TEXT -->
-<div style="max-width:900px; margin:2rem auto; font-size:1.05rem; line-height:1.8;">
+<!-- INTRO SECTION -->
+<div style="max-width:900px; margin:2rem auto; font-size:1.1rem; line-height:1.8;">
+  <h1 style="font-size:2rem;">Welcome to my website</h1>
   <p>
-  My doctoral thesis,
-  <em>"Optimizing Cloud Computing Performance: Simulation of Finite-Capacity Multi-Server Queueing Systems,"</em>
-  developed an open-source simulation framework for modelling and improving resource allocation in large-scale computing systems.
+    I am a computational researcher, having recently completed my Ph.D. in Computer Science at
+    <a href="https://www.unive.it/">Ca' Foscari University of Venice</a> under the supervision of
+    Prof. <a href="https://www.unive.it/data/people/5592332">Andrea Marin</a> and
+    Prof. <a href="https://www.unive.it/data/people/21550550">Leonardo Maccari</a>.
+    My work specializes in the simulation and analytical modelling of complex systems for optimization purposes.
+    I am passionate about applying my quantitative skills to pressing challenges at the intersection of technology and society.
   </p>
 
   <p>
-  During my Ph.D. I also spent a period abroad at
-  <a href="https://nbc.nust.edu.pk/">NUST Balochistan Campus</a> working with
-  <a href="https://nbc.nust.edu.pk/faculty/muhammad-mohsin-raza-jafri/">Prof. Muhammad Mohsin Raza Jafri</a>.
+    My doctoral thesis,
+    <em>"Optimizing Cloud Computing Performance: Simulation of Finite-Capacity Multi-Server Queueing Systems,"</em>
+    involved designing and implementing an open-source simulation framework to model and improve resource allocation in large-scale computing systems.
+    This builds upon my Master's research at
+    <a href="https://islamabad.comsats.edu.pk/">COMSATS University, Islamabad</a>, Pakistan,
+    supervised by Prof. <a href="https://ww2.comsats.edu.pk/faculty/FacultyDetails.aspx?Uid=280">Saif ur Rehman Malik</a>
+    (also at <a href="https://www.tcd.ie/scss/people/academic-staff/sumalik/">Trinity College Dublin</a>),
+    where I applied social network metrics to optimize network routing protocols.
   </p>
 
   <p>
-  My research focuses on <strong>finite-capacity multi-server queueing systems in cloud data centers</strong>,
-  including design and evaluation of novel scheduling and resource allocation strategies.
+    During my Ph.D., I also spent a period abroad as a visiting researcher at the
+    <a href="https://nbc.nust.edu.pk/">NUST Balochistan Campus</a>, where I had the privilege of working under the supervision of
+    Prof. <a href="https://nbc.nust.edu.pk/faculty/muhammad-mohsin-raza-jafri/">Syed Mohsin Raza Jafari</a>.
+  </p>
+
+  <p>
+    My research focuses on <strong>finite-capacity multi-server queuing systems in cloud data centers</strong>.
   </p>
 </div>
 
