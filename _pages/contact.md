@@ -26,7 +26,7 @@ permalink: /contact/
   </ul>
 
   <!-- Contact Form -->
-  <form action="https://formspree.io/f/your-form-id" method="POST" style="margin-top:1rem;">
+  <form action="https://formspree.io/f/xpwjvqkd" method="POST" style="margin-top:1rem;">
     <label>
       Your Name:<br>
       <input type="text" name="name" required minlength="2" maxlength="50" style="width:100%;">
