@@ -11,7 +11,7 @@ repository               : "WaqasSwati/WaqasSwati.github.io"
 
 # Site Author – sidebar
 author:
-  avatar           : "AY6315282(1).jpg"               # put your profile photo in /images/profile.png
+  avatar           : "profile.jpg"               # put your profile photo in /images/profile.png
   name             : "Muhammad Waqas"
   pronouns         : "he/him"
   bio              : "Computational researcher | Ph.D. Computer Science (Ca’ Foscari University of Venice) | Finite-capacity multi-server queueing systems in cloud data centers"
