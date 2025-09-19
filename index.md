@@ -7,9 +7,7 @@ permalink: /
 
 <!-- HERO SECTION -->
 <div style="background:#f5f9ff; padding:2rem 1rem; margin-bottom:2rem;">
-
   <div style="display:flex; flex-wrap:wrap; align-items:center; gap:2rem; max-width:1000px; margin:0 auto;">
-
     <!-- Photo -->
     <div style="flex:1; min-width:220px; text-align:center;">
       <img src="{{ site.baseurl }}/images/profile.jpg"
@@ -24,7 +22,6 @@ permalink: /
         Computational Researcher · Ph.D. Computer Science <br> Ca’ Foscari University of Venice, Italy
       </div>
     </div>
-
   </div>
 </div>
 
@@ -57,10 +54,8 @@ permalink: /
   </p>
 </div>
 
-<!-- FOUR CARDS -->
+<!-- ROW 1: Research + Available -->
 <div style="display:flex; flex-wrap:wrap; gap:2rem; margin:2rem auto; max-width:900px;">
-
-  <!-- Research Interests -->
   <div style="flex:1; min-width:250px; background:#f9f9f9; padding:1.5rem; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.05);">
     <h3 style="margin-top:0; text-align:center;">Research Interests</h3>
     <ul style="padding-left:1rem; line-height:1.8;">
@@ -70,7 +65,6 @@ permalink: /
     </ul>
   </div>
 
-  <!-- Available For -->
   <div style="flex:1; min-width:250px; background:#eef6ff; padding:1.5rem; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.05); text-align:center;">
     <h3 style="margin-top:0;">Available For</h3>
     <ul style="padding-left:1rem; text-align:left; line-height:1.8; display:inline-block;">
@@ -80,23 +74,23 @@ permalink: /
     </ul>
     <a href="/contact/" class="btn" style="display:inline-block; margin-top:1rem; background:#0073e6; color:#fff; padding:0.6rem 1.2rem; border-radius:6px; text-decoration:none;">Get in Touch</a>
   </div>
+</div>
 
-  <!-- What's New -->
+<!-- ROW 2: What's New + Awards -->
+<div style="display:flex; flex-wrap:wrap; gap:2rem; margin:2rem auto; max-width:900px;">
   <div style="flex:1; min-width:250px; background:#fff8e5; padding:1.5rem; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.05);">
     <h3 style="margin-top:0; text-align:center;">What's New?</h3>
     <ul style="padding-left:1rem; line-height:1.8;">
       <li><strong>Sept 04, 2025:</strong> Ph.D. Defense Talk</li>
-      <!-- Add more items here as needed -->
+      <!-- add more items as needed -->
     </ul>
   </div>
 
-  <!-- Awards / Fellowships -->
   <div style="flex:1; min-width:250px; background:#eaf8ef; padding:1.5rem; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.05);">
     <h3 style="margin-top:0; text-align:center;">Awards &amp; Fellowships</h3>
     <ul style="padding-left:1rem; line-height:1.8;">
       <li><strong>June 1, 2021:</strong> Italian Ph.D. Fellowship</li>
-      <!-- Add more items here as needed -->
+      <!-- add more items as needed -->
     </ul>
   </div>
-
 </div>
