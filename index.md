@@ -17,7 +17,7 @@ permalink: /
            style="width:220px; height:auto; border-radius:50%; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
     </div>
 
-    <!-- Name & tagline only -->
+    <!-- Name & tagline -->
     <div style="flex:3; min-width:280px;">
       <h1 style="margin:0; font-size:2.2rem;">Muhammad Waqas</h1>
       <div style="font-size:1.2rem; color:#0066cc; font-weight:500; margin:0.3rem 0 0 0;">
@@ -57,8 +57,7 @@ permalink: /
   </p>
 </div>
 
-
-<!-- TWO CARDS -->
+<!-- FOUR CARDS -->
 <div style="display:flex; flex-wrap:wrap; gap:2rem; margin:2rem auto; max-width:900px;">
 
   <!-- Research Interests -->
@@ -71,7 +70,7 @@ permalink: /
     </ul>
   </div>
 
-  <!-- Availability -->
+  <!-- Available For -->
   <div style="flex:1; min-width:250px; background:#eef6ff; padding:1.5rem; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.05); text-align:center;">
     <h3 style="margin-top:0;">Available For</h3>
     <ul style="padding-left:1rem; text-align:left; line-height:1.8; display:inline-block;">
@@ -80,6 +79,24 @@ permalink: /
       <li>Consulting on simulation &amp; modelling</li>
     </ul>
     <a href="/contact/" class="btn" style="display:inline-block; margin-top:1rem; background:#0073e6; color:#fff; padding:0.6rem 1.2rem; border-radius:6px; text-decoration:none;">Get in Touch</a>
+  </div>
+
+  <!-- What's New -->
+  <div style="flex:1; min-width:250px; background:#fff8e5; padding:1.5rem; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.05);">
+    <h3 style="margin-top:0; text-align:center;">What's New?</h3>
+    <ul style="padding-left:1rem; line-height:1.8;">
+      <li><strong>Sept 04, 2025:</strong> Ph.D. Defense Talk</li>
+      <!-- Add more items here as needed -->
+    </ul>
+  </div>
+
+  <!-- Awards / Fellowships -->
+  <div style="flex:1; min-width:250px; background:#eaf8ef; padding:1.5rem; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.05);">
+    <h3 style="margin-top:0; text-align:center;">Awards &amp; Fellowships</h3>
+    <ul style="padding-left:1rem; line-height:1.8;">
+      <li><strong>June 1, 2021:</strong> Italian Ph.D. Fellowship</li>
+      <!-- Add more items here as needed -->
+    </ul>
   </div>
 
 </div>
