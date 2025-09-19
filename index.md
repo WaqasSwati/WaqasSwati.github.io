@@ -31,28 +31,29 @@ permalink: /
 <!-- INTRO SECTION -->
 <div style="max-width:900px; margin:2rem auto; font-size:1.1rem; line-height:1.8;">
   <h1 style="font-size:2rem;">Welcome</h1>
-  <p>
-    I recently completed my Ph.D. in Computer Science at
-    <a href="https://www.unive.it/">Ca' Foscari University of Venice</a> under Prof.
-    <a href="https://www.unive.it/data/people/5592332">Andrea Marin</a> and
+    <p>
+    I am a computational researcher, having recently completed my Ph.D. in Computer Science at
+    <a href="https://www.unive.it/">Ca' Foscari University of Venice</a> under the supervision of
+    Prof. <a href="https://www.unive.it/data/people/5592332">Andrea Marin</a> and
     Prof. <a href="https://www.unive.it/data/people/21550550">Leonardo Maccari</a>.
-    My research specializes in the simulation and analytical modelling of complex systems,
-    with a focus on finite-capacity multi-server queueing systems in cloud data centers.
+    My work specializes in the simulation and analytical modelling of complex systems for optimization purposes.
+    I am passionate about applying my quantitative skills to pressing challenges at the intersection of technology and society.
   </p>
 
   <p>
     My doctoral thesis,
     <em>"Optimizing Cloud Computing Performance: Simulation of Finite-Capacity Multi-Server Queueing Systems,"</em>
-    produced an open-source simulation framework for large-scale computing systems.
-    Previously, at <a href="https://islamabad.comsats.edu.pk/">COMSATS University, Islamabad</a>,
+    involved designing and implementing an open-source simulation framework to model and improve resource allocation in large-scale computing systems.
+    This builds upon my Master's research at
+    <a href="https://islamabad.comsats.edu.pk/">COMSATS University, Islamabad</a>, Pakistan,
     supervised by Prof. <a href="https://ww2.comsats.edu.pk/faculty/FacultyDetails.aspx?Uid=280">Saif ur Rehman Malik</a>
     (also at <a href="https://www.tcd.ie/scss/people/academic-staff/sumalik/">Trinity College Dublin</a>),
-    I applied social network metrics to optimize network routing protocols.
+    where I applied social network metrics to optimize network routing protocols.
   </p>
 
   <p>
-    I also spent time as a visiting researcher at
-    <a href="https://nbc.nust.edu.pk/">NUST Balochistan Campus</a>, working with
+    During my Ph.D., I also spent a period abroad as a visiting researcher at the
+    <a href="https://nbc.nust.edu.pk/">NUST Balochistan Campus</a>, where I had the privilege of working under the supervision of
     Prof. <a href="https://nbc.nust.edu.pk/faculty/muhammad-mohsin-raza-jafri/">Syed Mohsin Raza Jafari</a>.
   </p>
 </div>
