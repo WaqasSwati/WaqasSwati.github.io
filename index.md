@@ -5,72 +5,72 @@ author_profile: false
 permalink: /
 ---
 
-<div style="display:flex; flex-wrap:wrap; gap:2rem; margin:2rem;">
+<!-- HERO SECTION: photo + name + tagline -->
+<div style="display:flex; flex-wrap:wrap; align-items:center; gap:2rem; margin:2rem;">
 
-  <!-- LEFT COLUMN: Intro & Main Text -->
-  <div style="flex:2; min-width:300px;">
+  <!-- Photo -->
+  <div style="flex:1; min-width:220px; text-align:center;">
+    <img src="{{ site.baseurl }}/images/profile.jpg"
+         alt="Muhammad Waqas"
+         style="width:200px; height:auto; border-radius:50%; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+  </div>
 
-  <h1 style="margin-top:0;">Welcome!</h1>
+  <!-- Intro Text -->
+  <div style="flex:3; min-width:280px;">
+    <h1 style="margin-top:0; font-size:2rem;">Muhammad Waqas</h1>
+    <p style="font-size:1.15rem; line-height:1.8; margin-bottom:0.8rem;">
+      Computational researcher • Ph.D. in Computer Science at
+      <a href="https://www.unive.it/">Ca' Foscari University of Venice</a>.
+    </p>
+    <p style="font-size:1.05rem; line-height:1.7; margin-bottom:0;">
+      Open to <strong>collaborative research</strong> and <strong>invited talks</strong>.
+      <a href="/contact/">Get in touch</a>.
+    </p>
+  </div>
 
-  <p style="font-size:1.1rem; line-height:1.8;">
-  I am a computational researcher who has recently completed my
-  <strong>Ph.D. in Computer Science</strong> at
-  <a href="https://www.unive.it/">Ca' Foscari University of Venice</a> under the supervision of
-  <a href="https://www.unive.it/data/people/5592332">Andrea Marin</a> and
-  <a href="https://www.unive.it/data/people/21550550">Leonardo Maccari</a>.
-  </p>
+</div>
 
-  <p style="font-size:1.1rem; line-height:1.8;">
+<!-- MAIN TEXT -->
+<div style="max-width:900px; margin:2rem auto; font-size:1.05rem; line-height:1.8;">
+  <p>
   My doctoral thesis,
   <em>"Optimizing Cloud Computing Performance: Simulation of Finite-Capacity Multi-Server Queueing Systems,"</em>
   developed an open-source simulation framework for modelling and improving resource allocation in large-scale computing systems.
   </p>
 
-  <p style="font-size:1.1rem; line-height:1.8;">
+  <p>
   During my Ph.D. I also spent a period abroad at
   <a href="https://nbc.nust.edu.pk/">NUST Balochistan Campus</a> working with
   <a href="https://nbc.nust.edu.pk/faculty/muhammad-mohsin-raza-jafri/">Prof. Muhammad Mohsin Raza Jafri</a>.
   </p>
 
-  <p style="font-size:1.1rem; line-height:1.8;">
+  <p>
   My research focuses on <strong>finite-capacity multi-server queueing systems in cloud data centers</strong>,
   including design and evaluation of novel scheduling and resource allocation strategies.
   </p>
+</div>
 
-  <p style="font-size:1.1rem; line-height:1.8;">
-  I am always open to <strong>collaborations</strong> and <strong>invited talks</strong> on my research topics.
-  If you are interested in working together or inviting me to speak, please feel free to <a href="/contact/">contact me</a>.
-  </p>
+<!-- TWO CARDS BELOW -->
+<div style="display:flex; flex-wrap:wrap; gap:2rem; margin:2rem auto; max-width:900px;">
 
-  </div>
-
-  <!-- RIGHT COLUMN: Photo + Highlights -->
-  <div style="flex:1; min-width:260px;">
-
-  <div style="text-align:center; margin-bottom:1rem;">
-    <img src="{{ site.baseurl }}/images/profile.jpg"
-     alt="Muhammad Waqas"
-     style="max-width:100%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
-
-  </div>
-
-  <div style="background:#f9f9f9; padding:1rem; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.05); margin-bottom:1rem;">
-    <h3 style="margin-top:0;">Research Interests</h3>
-    <ul style="padding-left:1rem; line-height:1.7;">
+  <!-- Research Interests -->
+  <div style="flex:1; min-width:250px; background:#f9f9f9; padding:1.5rem; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.05);">
+    <h3 style="margin-top:0; text-align:center;">Research Interests</h3>
+    <ul style="padding-left:1rem; line-height:1.8;">
       <li>Finite-capacity multi-server queueing systems</li>
       <li>Cloud data center performance &amp; energy efficiency</li>
       <li>Simulation &amp; analytical modelling</li>
     </ul>
   </div>
 
-  <div style="background:#eef6ff; padding:1rem; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.05);">
-    <h3 style="margin-top:0;">Available For</h3>
-    <ul style="padding-left:1rem; line-height:1.7;">
+  <!-- Availability -->
+  <div style="flex:1; min-width:250px; background:#eef6ff; padding:1.5rem; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.05);">
+    <h3 style="margin-top:0; text-align:center;">Available For</h3>
+    <ul style="padding-left:1rem; line-height:1.8;">
       <li>Collaborative research projects</li>
       <li>Invited lectures &amp; talks</li>
       <li>Consulting on simulation frameworks</li>
     </ul>
   </div>
 
-  </div>
 </div>
