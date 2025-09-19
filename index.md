@@ -21,7 +21,7 @@ permalink: /
     <div style="flex:3; min-width:280px;">
       <h1 style="margin:0; font-size:2.2rem;">Muhammad Waqas</h1>
       <div style="font-size:1.2rem; color:#0066cc; font-weight:500; margin:0.3rem 0 0 0;">
-        Computational Researcher · Ph.D. Computer Science · Ca’ Foscari University of Venice, Italy
+        Computational Researcher · Ph.D. Computer Science <br> Ca’ Foscari University of Venice, Italy
       </div>
     </div>
 
