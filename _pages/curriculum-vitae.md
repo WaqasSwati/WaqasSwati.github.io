@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /curriculum-vitae/
+permalink: /cv/
 author_profile: true
 title: "Curriculum Vitae"
 ---
@@ -15,4 +15,4 @@ You can view my full CV below or download it directly.
 <br>
 <br>
 
-<a href="/files/Muhammad_Waqas_CV.pdf" class="btn btn--primary" download>Download CV as PDF</a>
+<a href="/files/Muhammad_Waqas_CV.pdf" class="btn btn--primary" target="_blank" rel="noopener noreferrer">Download CV as PDF</a>
