@@ -1,19 +1,18 @@
 ---
 layout: single
-title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
+title: "Curriculum Vitae"
 ---
 
-### 📄 View my CV directly on this page  
+You can view my full CV below or download it directly.
 
-<iframe src="/files/Muhammad_Waqas_CV.pdf" 
-        width="100%" height="800px" 
-        style="border:1px solid #ccc; border-radius:8px;">
+<br>
+
+<iframe src="/files/Muhammad_Waqas_CV.pdf" width="100%" height="800px" style="border: none; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
 </iframe>
 
----
+<br>
+<br>
 
-### ⬇️ Download my CV  
-
-[Download CV (PDF)](/files/Muhammad_Waqas_CV.pdf)
+<a href="/files/Muhammad_Waqas_CV.pdf" class="btn btn--primary" download>Download CV as PDF</a>
