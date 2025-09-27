@@ -12,7 +12,9 @@ main:
     url: /publications/
   - title: "Teaching"
     url: /teaching/
+  - title: "Projects"
+    url: /projects/
   - title: "CV"
-    url: /curriculum-vitae/
+    url: /cv/
   - title: "Contact"
     url: /contact/
