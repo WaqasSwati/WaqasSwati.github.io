@@ -11,8 +11,8 @@ author_profile: true
     Open in a new tab to download or print
   </a></p>
 </div>
-
-<iframe src="{{ '/files/Muhammad_Waqas_CV.pdf' | relative_url }}"
+<iframe src="https://waqasswati.github.io/assets/Muhammad_Waqas_CV.pdf"
         style="width:100%; height:90vh; border:none;"
         title="Muhammad Waqas CV">
 </iframe>
+
