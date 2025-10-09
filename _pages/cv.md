@@ -131,7 +131,6 @@ author_profile: true
 
 <!-- EMBEDDED PDF -->
 <div style="text-align:center; margin-bottom:1rem;">
-  <p>Or view the embedded CV below:</p>
 </div>
 
 <iframe src="https://waqasswati.github.io/assets/Muhammad_Waqas_CV.pdf"
