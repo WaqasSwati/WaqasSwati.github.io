@@ -1,14 +1,11 @@
 ---
 layout: single
-title: "Curriculum Vitae"
+title: "Muhammad Waqas"
 permalink: /cv/
 author_profile: false
 ---
 
 <!-- HERO / INTRO -->
-<div style="text-align:center; margin-bottom:2rem;">
-  <h1>Muhammad Waqas</h1>
-</div>
 
 <hr style="max-width:800px; margin:2rem auto;">
 
