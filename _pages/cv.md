@@ -128,12 +128,3 @@ author_profile: true
     📄 Download Full CV (PDF)
   </a>
 </section>
-
-<!-- EMBEDDED PDF -->
-<div style="text-align:center; margin-bottom:1rem;">
-</div>
-
-<iframe src="https://waqasswati.github.io/assets/Muhammad_Waqas_CV.pdf"
-        style="width:100%; height:90vh; border:none;"
-        title="Muhammad Waqas CV">
-</iframe>
