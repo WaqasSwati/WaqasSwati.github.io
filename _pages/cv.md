@@ -8,15 +8,6 @@ author_profile: true
 <!-- HERO / INTRO -->
 <div style="text-align:center; margin-bottom:2rem;">
   <h1>Muhammad Waqas</h1>
-  <p>
-    Venice, Italy · <a href="mailto:muhammad.waqas@unive.it">muhammad.waqas@unive.it</a> · 
-    <a href="https://waqasswati.github.io" target="_blank">waqasswati.github.io</a>  
-  </p>
-  <p>
-    <a href="https://orcid.org/0000-0001-6489-2819" target="_blank">ORCID</a> ·
-    <a href="https://github.com/muhammadwaqas01" target="_blank">GitHub</a> ·
-    <a href="https://www.linkedin.com/in/muhammad-waqas-18a574152" target="_blank">LinkedIn</a>
-  </p>
 </div>
 
 <hr style="max-width:800px; margin:2rem auto;">
