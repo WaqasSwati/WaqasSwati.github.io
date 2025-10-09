@@ -16,6 +16,7 @@ permalink: /contact/
 
   <!-- Social Links with Icons -->
   <ul style="list-style:none; padding-left:0; line-height:2;">
+        <li><i class="fas fa-envelope"></i> <a href="mailto:muhammadwaqas657@gmail.com">muhammadwaqas657@gmail.com</a></li>
     <li><i class="fas fa-envelope"></i> <a href="mailto:muhammad.waqas@unive.it">muhammad.waqas@unive.it</a></li>
     <li><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/muhammad-waqas-swati-18a574152/">LinkedIn</a></li>
     <li><i class="fab fa-x-twitter"></i> <a href="https://twitter.com/Waqas1swati">X (formerly Twitter)</a></li>
