@@ -4,6 +4,44 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
+<style>
+  .teaching-container {
+    max-width: 900px;
+    margin: 2rem auto;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  .teaching-card {
+    padding: 1.5rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  }
+
+  .teaching-card h3 {
+    text-align: center;
+    margin-top: 0;
+  }
+
+  .course-list {
+    list-style-type: none;
+    padding-left: 1rem;
+    line-height: 1.6;
+    margin: 0;
+  }
+
+  .course-list li {
+    margin-bottom: 0.8rem;
+  }
+
+  .course-desc {
+    font-size: 0.9rem;
+    color: #555;
+    margin-left: 0.5rem;
+  }
+</style>
+
 <!-- HERO HEADER -->
 <div style="background:#f5f9ff; padding:2rem 1rem; margin-bottom:2rem; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.05); max-width:900px; margin-left:auto; margin-right:auto;">
   <h1 style="margin-top:0; text-align:center;">Teaching</h1>
@@ -13,45 +51,45 @@ permalink: /teaching/
   </p>
 </div>
 
-<!-- COURSES TAUGHT – SEQUENTIAL STYLE -->
-<div style="max-width:900px; margin:2rem auto; display:flex; flex-direction:column; gap:2rem;">
+<!-- COURSES TAUGHT -->
+<div class="teaching-container">
 
   <!-- University of Lahore -->
-  <div style="background:#f9f9f9; padding:1.5rem; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.05);">
-    <h3 style="margin-top:0; text-align:center;">University of Lahore, Islamabad, Pakistan (2019–2021)</h3>
-    <ul style="padding-left:1rem; line-height:1.6; list-style-type:none; margin:0;">
-      <li style="margin-bottom:0.8rem;">
+  <section class="teaching-card" style="background:#f9f9f9;">
+    <h3>University of Lahore, Islamabad, Pakistan (2019–2021)</h3>
+    <ul class="course-list">
+      <li>
         <strong>Software Engineering</strong>
-        <span style="font-size:0.9rem; color:#555; margin-left:0.5rem;">— Explores the basics of Software Engineering and framwork for developing a softwares and different software process models</span>
+        <span class="course-desc">— Explores the basics of software engineering, frameworks for software development, and different software process models.</span>
       </li>
-      <li style="margin-bottom:0.8rem;">
+      <li>
         <strong>Human Computer Interaction</strong>
-        <span style="font-size:0.9rem; color:#555; margin-left:0.5rem;">— Explores principles and methods of designing user-centered interfaces, focusing on usability, interaction design, and evaluation of interactive systems</span>
+        <span class="course-desc">— Focuses on user-centered interface design, usability principles, and evaluation methods for interactive systems.</span>
       </li>
-      <li style="margin-bottom:0.8rem;">
+      <li>
         <strong>Software Requirements and Specification</strong>
-        <span style="font-size:0.9rem; color:#555; margin-left:0.5rem;">— Covers techniques for eliciting, documenting, and managing functional and non-functional requirements to ensure high-quality software specifications</span>
+        <span class="course-desc">— Covers techniques for eliciting, documenting, and managing requirements to ensure high-quality software specifications.</span>
       </li>
-      <li style="margin-bottom:0.8rem;">
+      <li>
         <strong>Discrete Structures</strong>
-        <span style="font-size:0.9rem; color:#555; margin-left:0.5rem;">— Provides the mathematical foundations for computer science, including logic, sets, relations, graphs, and combinatorics, to support problem solving and system modeling</span>
+        <span class="course-desc">— Provides mathematical foundations for computer science, including logic, sets, relations, and combinatorics.</span>
       </li>
     </ul>
-  </div>
+  </section>
 
   <!-- IQRA National University -->
-  <div style="background:#eef6ff; padding:1.5rem; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.05);">
-    <h3 style="margin-top:0; text-align:center;">IQRA National University, Peshawar, Pakistan (2017–2019)</h3>
-    <ul style="padding-left:1rem; line-height:1.6; list-style-type:none; margin:0;">
-      <li style="margin-bottom:0.8rem;">
+  <section class="teaching-card" style="background:#eef6ff;">
+    <h3>IQRA National University, Peshawar, Pakistan (2017–2019)</h3>
+    <ul class="course-list">
+      <li>
         <strong>Formal Methods in Software Engineering</strong>
-        <span style="font-size:0.9rem; color:#555; margin-left:0.5rem;">— Introduces mathematical techniques and specification languages for modeling, verifying, and validating software systems</span>
+        <span class="course-desc">— Introduces mathematical specification and verification techniques for modeling and validating software systems.</span>
       </li>
-      <li style="margin-bottom:0.8rem;">
-        <strong>Enterprise Systems Enigneering</strong>
-        <span style="font-size:0.9rem; color:#555; margin-left:0.5rem;">— Provides an overview of enterprise resource planning and large-scale business systems, focusing on integration and implementation concepts</span>
+      <li>
+        <strong>Enterprise Systems Engineering</strong>
+        <span class="course-desc">— Provides an overview of enterprise resource planning and large-scale system integration concepts.</span>
       </li>
     </ul>
-  </div>
+  </section>
 
 </div>
