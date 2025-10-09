@@ -81,11 +81,29 @@ author_profile: true
   <ol>
     <li>
       S. Akbar, R. Li, M. Waqas, and A. Jan, “Server temperature prediction using deep neural networks to assist thermal-aware scheduling,”
-      <em>Sustainable Computing: Informatics and Systems</em>, Elsevier, vol. 36, 2022.
+      <em>Sustainable Computing: Informatics and Systems</em>, Elsevier, vol. 36, art. no. 100809, 2022.
     </li>
     <li>
       M. Waqas, S. UrRehman, and S. Akbar, “Convergence time analysis of OSPF routing protocol using social network metrics,”
       <em>Future Generation Computer Systems</em>, Elsevier, vol. 94, pp. 62–71, 2019.
+    </li>
+  </ol>
+
+  <h3 style="margin-top:1.25rem;">Conferences</h3>
+  <ol start="1">
+    <li>
+      M. Waqas, A. Marin, and L. Maccari, “Finite capacity multi-server job systems: A simulation study,”
+      in Proc. 38th European Conference on Modelling and Simulation (ECMS), Krakow, Poland, June 2024, pp. 150–157.
+    </li>
+  </ol>
+
+  <h3 style="margin-top:1.25rem;">Submitted Manuscripts</h3>
+  <ol start="1">
+    <li>
+      M. Waqas, A. Marin, L. Maccari, and M. Raza, “Simulating Finite-Capacity Multiserver Queues in OMNeT++,” submitted to Future Generation Computer Systems, Elsevier, 2025.
+    </li>
+    <li>
+      M. Waqas, A. Marin, and L. Maccari, “When killing jobs becomes good?” submitted to Journal of Parallel and Distributed Computing, Elsevier, 2025.
     </li>
   </ol>
 </section>
