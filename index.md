@@ -10,7 +10,7 @@ permalink: /
   <div style="display:flex; flex-wrap:wrap; align-items:center; gap:2rem; max-width:1000px; margin:0 auto;">
     <!-- Photo -->
     <div style="flex:1; min-width:220px; text-align:center;">
-      <img src="{{ site.baseurl }}/images/profile.jpg"
+      <img src="{{ site.baseurl }}/images/m.waqas.jpg"
            alt="Muhammad Waqas"
            style="width:220px; height:auto; border-radius:50%; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
     </div>
